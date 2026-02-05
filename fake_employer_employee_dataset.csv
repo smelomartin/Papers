@@ -1,0 +1,13 @@
+# Fake Employer-Employee Dataset
+
+This dataset is a simulated collection of records representing relationships between employers and employees. It is designed for testing and training purposes in data analysis, machine learning, and software development.  
+
+## Dataset Description
+
+- **Number of Rows**: 10,000 (to be created manually)
+- **Features**: The dataset will contain various features such as employee ID, name, position, salary, department, hiring date, and employer details.  
+- **Data Quality**: The data is artificially generated, ensuring that all entries are valid within the defined schema but may not represent real-world scenarios.
+- **Usage**: Ideal for testing data-driven applications, machine learning models, and analytics workflows.
+
+## Note
+Please ensure to replace this description or update the content once the dataset rows have been generated.
